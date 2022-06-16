@@ -1,7 +1,7 @@
 {
   "Version": "1.0.1",
   "ReleaseNotes": "Nova Atualização Disponível",
-  "UrlUpdate": "https://paste.anasor.com/paste.php?id=13963",
+  "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta4g/main/config.json",
   "Sms": "BOTAR LINK DO SMS AQUI",
   "EmailFeedback": "true",
   "UrlContato": "https://wa.me/5561981397293",
