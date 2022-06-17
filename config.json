@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.15",
+  "Version": "1.0.17",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta4g/main/config.json",
   "Sms": "BOTAR LINK DO SMS AQUI",
@@ -133,8 +133,8 @@
       "Name": "CLARO 02",
       "FLAG": "claro",
       "Payload": "GET wss://ct.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "go.kaltura.com",
-      "TlsIP": "go.kaltura.com",
+      "SNI": "ct.livestream.com",
+      "TlsIP": "ct.livestream.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
