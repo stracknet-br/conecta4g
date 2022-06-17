@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.14",
+  "Version": "1.0.15",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta4g/main/config.json",
   "Sms": "BOTAR LINK DO SMS AQUI",
@@ -133,8 +133,8 @@
       "Name": "CLARO 02",
       "FLAG": "claro",
       "Payload": "GET wss://ct.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "ct.livestream.com",
-      "TlsIP": "104.17.71.206",
+      "SNI": "go.kaltura.com",
+      "TlsIP": "go.kaltura.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -144,7 +144,7 @@
       "FLAG": "claro",
       "Payload": "GET wss://uploads.api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "uploads.api.new.livestream.com",
-      "TlsIP": "162.159.136.60",
+      "TlsIP": "uploads.api.new.livestream.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -154,7 +154,7 @@
       "FLAG": "claro",
       "Payload": "GET wss://connect.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "connect.kaltura.com",
-      "TlsIP": "162.159.134.42",
+      "TlsIP": "connect.kaltura.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -164,7 +164,7 @@
       "FLAG": "claro",
       "Payload": "GET wss://lp.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "lp.livestream.com",
-      "TlsIP": "104.17.74.206",
+      "TlsIP": "lp.livestream.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -174,7 +174,7 @@
       "FLAG": "claro",
       "Payload": "GET wss://vimeo.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "vimeo.livestream.com",
-      "TlsIP": "104.17.74.206",
+      "TlsIP": "vimeo.livestream.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
