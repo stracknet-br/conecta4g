@@ -1,12 +1,12 @@
 {
-  "Version": "1.0.6",
+  "Version": "1.0.7",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta4g/main/config.json",
   "Sms": "BOTAR LINK DO SMS AQUI",
   "EmailFeedback": "true",
   "UrlContato": "https://wa.me/5561981397293",
   "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Webstar/termos.html",
-  "CheckUser": "http://150.230.94.20:8181/checkUser",
+  "CheckUser": "true",
   "Udp": [
     {
       "Porta": "7300"
